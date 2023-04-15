@@ -1,6 +1,6 @@
 # React Todo App
 
-![React Todo App](/todo-application/src/assets/preview/preview.gif)
+![preview](https://user-images.githubusercontent.com/74488675/232191849-3bd19e57-1869-44d7-8ab7-8b8dd7dc80c5.gif)
 
 
 **Note:** Each video has a corresponding branch. The `main` branch is up to date with the latest video.
